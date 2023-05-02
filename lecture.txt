@@ -1,0 +1,11 @@
+PROJECT PLANNING
+-Planning Step
+1) USER STORIES (What users want)
+    Description of application functionality from the user's perspective
+        As a [type of user (WHO)], I want [an action (WHAT)] so that [a benefit (WHY)].
+2)FEATURES
+3) FLOW CHART (What we will build)
+4)ARCHITECTURE (How we build it and functionality (multiple-files))
+
+-Development Step
+    CODE! CODE!
